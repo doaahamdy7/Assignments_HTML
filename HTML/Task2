@@ -1,1 +1,58 @@
+<!-- Type Question 1 Answer Below -->
+"<!DOCTYPE html>"
+<!-- Type Question 2 Answer Below -->
+"Quirks mode"
+<!-- Type Question 3 Answer Below -->
+"No"
+<!-- Type Question 4 Answer Below -->
+"The size of the heading statr from h1=>bigest and h6=>smallest"
+
+<!-- assignment 1-->
+
+there is no difference between these
+ <p class="element">Welcome To The New World</p>
+ <p class='element'>Welcome To The New World</p>
+ <p class=element>Welcome To The New World</p>
+ 
+<!--assignment 2-->
+
+there is no difference between these
+
+<p class=element hidden>Welcome To The New World</p>
+<p class="element" hidden>Welcome To The New World</p>
+
+<!--assignment 3-->
+
+all of these will appear same in the page
+<p>Hello World</p>
+
+<p>
+Hello World
+</p>
+
+<p>
+Hello
+World
+</p>
+
+<p>
+Hello
+
+
+World
+</p>
+<!--assignment 4-->
+
+title => global
+href => Not
+src => Not
+hidden => global
+charset => Not
+class => global
+id => global
+type => Not
+
+<!--assignment 5-->
+
+
 
