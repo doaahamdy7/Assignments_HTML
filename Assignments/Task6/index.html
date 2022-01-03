@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>Book Shop</title>
+        <meta name="description" content="This is description for my store" />
+    </head>
+    <body>
+      <div>
+          <h2>Book Shop</h2>
+          <p>This is description for my store</p>
+      </div>
+      
+      <form method="post" action="test.py">
+          <input type="hidden" value="HTML">
+          <div>
+              <label>Username</label>
+              <br>
+              <input type="text" name="username" placeholder="Name" required>
+          </div>
+          <hr>
+             <!-- 1 -->
+          <div>
+            <label>Password</label>
+            <br>
+            <input type="password" name="pass" placeholder="Password" >
+        </div>
+        <hr>
+           <!-- 2 -->
+        <div>
+            <label>Mobile</label>
+            <br>
+            <input type="number" name="mobile" placeholder="20100 (234) 123+">
+        </div>
+        <hr>
+           <!-- 3 -->
+        <div>
+            <label>Email</label><br>
+            <input type="Email" name="email" placeholder="Enter your email address"required> 
+        </div>
+        <hr>
+           <!-- 4 -->
+        <div>
+            <label>Subject</label><br>
+            <input type="text" name="subject" placeholder="subject" >
+        </div>
+        <br>
+           <!-- 5 -->
+        <input type="submit" value="Send Data">
+        <input type="reset" value="Empty Form">
+
+      </form>
+    </body>
+</html>
