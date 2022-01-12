@@ -4,14 +4,14 @@
 
 ##### اكتب في تعليق نوع كل Style من التالي
 #### <!-- External -->
-<link rel="stylesheet" href="css/file.css" />
+#### <link rel="stylesheet" href="css/file.css" />
 
-<!-- Internel -->
-<style>
-p {
-  color: red;
-}
-</style>
+#### <!-- Internel -->
+#### <style>
+#### p {
+####  color: red;
+####}
+#### </style>
 
-<!-- Inline -->
-<p style="color: blue;">This Is Our Paragraph</p>
+#### <!-- Inline -->
+#### <p style="color: blue;">This Is Our Paragraph</p>
