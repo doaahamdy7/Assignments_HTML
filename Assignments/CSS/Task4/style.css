@@ -1,0 +1,32 @@
+.parent .child .title{
+    color: red;
+}
+.parent .title {
+    color: blue;
+}
+.parent p,
+.title{
+    color: green;
+}
+
+/* Assign1 */
+
+
+.title1,
+.title2,
+.title3{
+    background-color: red;
+    margin: 30px;
+    padding: 20px;
+    width: fit-content;
+}
+.title4{
+    width: 400px;
+    height: 150px;
+    background-color: red;
+    margin: 30px;
+    padding: 20px;
+    overflow: hidden;
+}
+
+/* Assign2 */

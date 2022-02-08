@@ -1,0 +1,58 @@
+.assign1{
+    width: 400px;
+    background-color: #fff;
+    padding:20px;
+    font-size:20px;
+    border:4px solid yellow;
+}
+.assign1 p{
+    background-color:#ddd;
+    border:inherit;
+    padding:inherit;
+}
+
+.assign2{
+    width: 400px;
+    margin-top: 20px;
+    background-color: #fff;
+    padding:20px;
+    font-size:20px;
+    border:4px solid rgb(3, 70, 64);
+}
+.assign2 p{
+    background-color:#ddd;
+    border:inherit;
+    padding:inherit;
+}
+/* Assignment1 */
+
+
+body{
+    font-size: 20px;
+    text-align: center;
+}
+.p1{
+    font-family: 'Open Sans', sans-serif;
+
+}
+.p2{
+    font-family: 'Cairo', sans-serif;
+}
+.p3{
+    font-family: 'Jomhuria', cursive;
+}
+/* Assignment2 */
+
+.rem1{
+    font-family: 'Open Sans', sans-serif;
+    font-size:2.5rem;  
+
+}
+.rem2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2rem;
+}
+.rem3{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5rem;
+}

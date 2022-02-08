@@ -1,0 +1,56 @@
+.shape-1{
+    background-color: #ddd;
+    padding: 40px;
+    margin: 30px;
+    display: inline-block;
+    border: 5px solid red;
+    outline: 5px solid black;
+}
+.shape-2{
+    background-color: #ddd;
+    padding: 40px;
+    margin: 30px;
+    display: inline-block;
+    border: 5px;
+    border-color:blue green;
+    border-style: solid;
+    outline: 5px solid black;
+
+}
+.shape-3{
+    background-color: #ddd;
+    padding: 40px;
+    margin: 30px;
+    display: inline-block;
+    border: 5px;
+    border-color:red green blue yellow;
+    border-style: dashed;
+    outline: 5px solid black;
+
+}
+/* Assign1 */
+.assign-2-shape-1{
+    background-color: #ddd;
+    width: 400px;
+    padding: 40px;
+    margin: 20px;
+    border-left: 5px solid red;
+
+}
+.assign-2-shape-2{
+    background-color: #ddd;
+    width: 400px;
+    padding: 40px;
+    margin: 20px;
+    visibility: hidden;
+    border-left: 5px solid red;
+
+}
+.assign-2-shape-3{
+    background-color: #ddd;
+    width: 400px;
+    padding: 40px;
+    margin: 20px;
+    display: inline-block;
+    border-left: 5px solid blueviolet;
+}

@@ -1,0 +1,47 @@
+.parent {
+    width: 800px;
+  }
+  .parent .full {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+    background-color: #eee;
+    width: calc((100% - 30px) / 1);
+    float: left;
+  }
+  .parent .width3 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    margin-left: 15px;
+    background-color: #eee;
+    width: calc((100% - 60px) / 3);
+    float: left;
+  }
+  .parent .width2 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+    margin-left: 15px;
+    background-color: #eee;
+    width: calc((100% - 45px) / 2);
+    float: left;
+  }
+  .parent .width4 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    margin-left: 15px;
+    background-color: #eee;
+    width: calc((100% - 75px) / 4);
+    float: left;
+  }
+  /********Assignment1********/
+
+
+ 
